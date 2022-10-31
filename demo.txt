@@ -1,2 +1,3 @@
 Welcome to GitHub demo
 Branching Development Model Project
+Adding changes from the hotfix branch
